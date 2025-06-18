@@ -49,5 +49,6 @@ com.example.bank
 ├── service
 │ └── AccountService.java # 비즈니스 로직 + 동시성 제어
 └── test
-└── AccountServiceTest.java # 단계별 TDD 테스트
+  └── tdd
+    └── AccountServiceTest.java # 단계별 TDD 테스트
 ```
